@@ -1,5 +1,7 @@
 ## EXEMPLE LOADER 1
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Contruction d'un loader permettant de faire patientier les internautes en attendant le chargement de la page.
